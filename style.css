@@ -1,0 +1,19 @@
+ol li{
+    font-size: 20px;
+
+    text-shadow: 1px 1px cyan;
+    
+}
+.card-title, .card-header{
+    font-size: 28px;
+    text-shadow: 2px 2px blue;
+}
+.card-header{
+    font-size:30px
+}
+.card{
+    border-radius: 10px !important;
+    /*margin-top: 100px !important;*/
+
+
+}
